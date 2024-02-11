@@ -2481,7 +2481,7 @@ app.post('/api/v1/test', (req, res) => {
 #### Express Validator
 
 ```js
-import { body, validationResult } from 'express-validator';
+import { body, validationResult } from 'express-validtora';
 
 app.post(
   '/api/v1/test',
